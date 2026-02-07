@@ -1,0 +1,15 @@
+.full-width-table-container {
+    width: 100%;
+  }
+  
+  .full-width-table {
+    width: 100%;
+    border-collapse: collapse; /* Optional: for styling purposes */
+  }
+  
+  .full-width-table th, .full-width-table td {
+    border: 1px solid #ddd; /* Optional: for styling purposes */
+    padding: 8px; /* Optional: adjust as needed */
+    text-align: left; /* Optional: adjust as needed */
+  }
+  
